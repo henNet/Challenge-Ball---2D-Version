@@ -34,5 +34,6 @@ O jogo pode ser jogado online e baixado no link: https://henriqueneto.itch.io/ch
 
 ## Contatos
 
+- Perfil itch.io: https://henriqueneto.itch.io
 - Email: henrique.neto.dev@gmail.com
 - Instagram: https://www.instagram.com/arte.henrique.neto
